@@ -10,6 +10,9 @@ package com.git.test;
 public class TestGit {
 
 	private int age;
+	private String name;
+	
+	
 
 	public int getAge() {
 		return age;
