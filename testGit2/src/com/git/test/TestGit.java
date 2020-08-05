@@ -15,9 +15,7 @@ public class TestGit {
 		return age;
 	}
 
-	public void setAge(int age) {
-		this.age = age;
-	}
+	
 	
 	
 }
