@@ -9,9 +9,6 @@ public class Test {
 		this.name=name;
 	}
 	
-	public String getName(){
-		return name;
-	} 
 	public void setId(int id){
 		this.id=id;
 	}
